@@ -12,4 +12,6 @@ https://github.com/JanuszBedkowski/mandeye_controller
 
 ## Download dataset
 
-> A placeholder for the link to Archive.org
+The Lidar data can be downloaded from:
+
+https://archive.org/details/OmniWarsaw-lidar
